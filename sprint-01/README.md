@@ -1,4 +1,4 @@
- ![](https://gitlab.com/vitorBernard0/Sprint-01/-/blob/master/assets/img/%23Sprint_01.png)
+ ![](https://gitlab.com/vitorBernard0/Sprint-01/-/blob/master/assets/img/%23Sprint_01.jpg)
  
 <br>
 
